@@ -1,0 +1,4 @@
+﻿  Converter.c
+C:\Users\Hassan Ihsan\Desktop\work_you\programming_code\RomanToArabic\RomanAndArabic\RomanAndArabic\Converter.c(21,1): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Hassan Ihsan\Desktop\work_you\programming_code\RomanToArabic\RomanAndArabic\RomanAndArabic\Converter.c(145,13): warning C4013: 'isdigit' undefined; assuming extern returning int
+  RomanAndArabic.vcxproj -> C:\Users\Hassan Ihsan\Desktop\work_you\programming_code\RomanToArabic\RomanAndArabic\Debug\RomanAndArabic.exe
